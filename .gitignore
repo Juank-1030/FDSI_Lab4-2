@@ -1,0 +1,13 @@
+# Binarios y ejecutables ELF
+crackme_level1
+crackme_level2
+crackme_level2_stripped
+
+# Archivos de proyecto y bloqueos de Ghidra
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# Archivos de empaquetado o temporales
+*.zip
